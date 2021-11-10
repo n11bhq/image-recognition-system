@@ -12,4 +12,4 @@ Dataset yang dipakai disini adalah Image Daun Nangka (50 gambar), dan Image Daun
 
 ##  Source Code
 
-(https://github.com/Taufik322/image-recognition-system/tree/main/source%20code)
+[Source Code](https://github.com/Taufik322/image-recognition-system/tree/main/source%20code)
