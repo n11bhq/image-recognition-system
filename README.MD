@@ -7,9 +7,9 @@ Dataset yang dipakai disini adalah Image Daun Nangka (50 gambar), dan Image Daun
 
 ##  Dataset Repo
 
-- Label 1 : [Daun Nangka](https://github.com/Taufik322/image-recognition-system/tree/main/dataset/daun%20nangka) 
-- Label 2 : [Daun Belimbing Wuluh](https://github.com/Taufik322/image-recognition-system/tree/main/dataset/daun%20belimbing%20wuluh)
+- Label 1 : [Daun Nangka](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/dataset/nangka) 
+- Label 2 : [Daun Belimbing Wuluh](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/dataset/belimbing%20wuluh)
 
 ##  Source Code
 
-[Source Code](https://github.com/Taufik322/image-recognition-system/tree/main/source%20code)
+[Source Code](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/source%20code)
