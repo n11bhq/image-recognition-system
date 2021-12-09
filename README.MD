@@ -13,3 +13,8 @@ Dataset yang dipakai disini adalah Image Daun Nangka (50 gambar), dan Image Daun
 ##  Source Code
 
 [Source Code](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/source%20code)
+
+##  Model Deployment
+
+- ANN : [ANN](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/source%20code/Image%20Classification%20using%20ANN) 
+- CNN : [ANN](https://github.com/Taufik322/image-recognition-system/tree/main/dokumentasi/source%20code/Image%20Classification%20using%20CNN/Image%20Classification%20using%20CNN) 
